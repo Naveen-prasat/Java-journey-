@@ -1,1 +1,23 @@
-day 1 
+codechef problem:
+AI is Coming:
+
+
+import java.util.*;
+import java.lang.*;
+import java.io.*;
+
+class Codechef
+{
+	public static void main (String[] args) throws java.lang.Exception
+	{
+		// your code goes her
+		Scanner sc = new Scanner(System.in);
+		int a = sc.nextInt();
+		
+		if(a<=60)
+		 System.out.println("YES");
+		else
+		 System.out.println("NO");
+
+	}
+}
